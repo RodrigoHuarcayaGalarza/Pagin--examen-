@@ -1,2 +1,6 @@
-# Pagin--examen-
-Es una pagina para mi exmane de HTML Y CSSS
+# Screenshot
+![](docs/screnshot.png)
+
+# Tools
+- caniuse.com
+- [w3 validator](https://validator.w3.org)
